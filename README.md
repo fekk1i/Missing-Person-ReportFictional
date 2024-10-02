@@ -12,5 +12,3 @@ Important Input:
 The person has been on Eurotrip
 Part one you need to provide the authorities with information about the suspected locations so they can start investigation (country, hotels and attractions)
 Download part one Artifacts https://drive.google.com/drive/folders/11i0xu4hYlbz7reLfzdTMiMTqIP4V4qnv?usp=sharing
-
-Part 2 will be released based on your progress
